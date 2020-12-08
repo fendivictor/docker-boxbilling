@@ -18,7 +18,8 @@ I assumed that you have installed docker and docker-compose in your pc.
    git clone https://github.com/fendivictor/docker-boxbilling.git
    ```
 2. run ```cd docker-boxbilling```
-3. Lastly, run ```docker-compose up``` and Compose will start and run ```localhost:8004``` in your browser.
+3. Then, run ```docker-compose up``` and Compose will start.
+4. Wait until "mysqld: ready for connections." and open your browser and run ```localhost:8004```.
 
 ### Note:
 * username: admin@localhost.com
