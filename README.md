@@ -17,7 +17,8 @@ I assumed that you have installed docker and docker-compose in your pc.
     ```sh
    git clone https://github.com/fendivictor/docker-boxbilling.git
    ```
-2. Lastly, run ```docker-compose up``` and Compose will start and run entire app.
+2. ```cd docker-boxbilling```
+3. Lastly, run ```docker-compose up``` and Compose will start and run entire app.
 
 ### Note:
 * username: admin@localhost.com
