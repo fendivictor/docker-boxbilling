@@ -19,7 +19,7 @@ I assumed that you have installed docker and docker-compose in your pc.
    ```
 2. Lastly, run ```docker-compose up``` and Compose will start and run entire app.
 
-Note:
+# Note:
 username: admin@localhost.com
 password: 1234
 
